@@ -1,0 +1,42 @@
+﻿https://ironsoftware.com/csharp/excel/docs/license/eula/
+
+IronXL End User License Agreement
+Iron Software LLC hereby grants you a non-exclusive license to the IronXL Software Library for .Net ("the Software").
+
+Do No Harm
+By downloading or using the Software, the Licensee agrees not to utilize the software in a manner which is disparaging to Iron Software LLC, and not to rent, lease or otherwise transfer rights to the Software. The Licensee agrees that no attempt will be made by the Licensee or associated parties to translate, reverse engineer, modify, decompile, disassemble or distribute the Software.
+
+License Types
+License terms are offered on the following terms, as purchased. If no purchase or insufficient purchase has been made then the Free Trial License terms apply.
+
+1) Free Trial License - Grants the use of the TRIAL VERSION of the software for private evaluation purposes only. The Software should not be published in any internet, software, SaaS nor intranet project.
+
+2) Single Project License - Grants the use of the Software by a specified number of software developer. They software may be deployed within ONE web-application, intranet application or desktop software application, for the use of ONE end user organization. Not valid for OEM redistribution or SaaS services.
+
+3) Advanced Developer License - Grants the use of The Software for 1 developer and unlimited end user organizations. The Software is licensed for use within an agreed number of software projects. Valid for development, staging and production servers. Not valid for OEM redistribution or SaaS services. This license is perpetual with no yearly fees.
+
+4) Single Site Organization License - Grants the use of the Software by a specified number developers to create and deploy software for the end use of ONE business OR ONE government department OR ONE legal entity in a single location ("The Organization") . This license covers unlimited applications or projects The Software may be deployed upon any number of machines the end-use of The Organization. Not valid for OEM redistribution or SaaS services.
+
+5) Global Enterprise License - Grants the use of the Software by a specified number developers to create and deploy software for the end use of ONE business OR ONE government department OR ONE legal entity ("The Organization") in multiple locations. This license covers unlimited applications or projects The Software may be deployed upon any number of machines the end-use of The Organization. Not valid for OEM redistribution or SaaS services.
+
+6) Agency License - Grants the use of The Software for unlimited developers and unlimited end user organizations, but is restricted by the number of purchased project deployments. The Software is licensed for use within an agreed number of software projects. This license also intrinsically covers for development, staging and production servers for each project. Not valid for OEM redistribution or SaaS services.
+
+7) SaaS License - Grants the use of the Software by unlimited developers to deploy within ONE single a single SaaS software service where Excel editing is not a primary business function. Valid for development, staging and production servers. Not valid for OEM redistribution.
+
+8) OEM Redistribution License - Grants the right to distribute the Software (without royalty) as part of ONE distinct packaged commercial product, provided that your application is not a software development system or tool, nor a Excel spreadsheet editing application in its self.
+
+Ownership
+Iron Software LLC shall at all times retain ownership of the Iron Barcode Software Library and all subsequent copies.
+
+Copyright
+Title, ownership rights, and intellectual property rights in and to the Software shall remain with Iron Software LLC. The Software is protected by the international copyright laws. Title, ownership rights, and intellectual property rights in and to the content accessed through the Software is the property of the applicable content owner and may be protected by applicable copyright or other law. This License gives you no rights to such content.
+
+Upgrades & Support
+If a new release of the software is produced within 12 months from the date of purchase then you will be entitled to a free upgrade. This agreement may be extended by explicit purchase of additional lights. This license does not grant you any right to any enhancement or update beyond the initial 12 month period, commencing from the date of purchase. This license does not indicate a Service Level Agreement, nor does it imply that Iron Software is responsabile for sucessful deployment, maintainance nor business function of The Software.
+
+Limitation Of Liability
+THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT A WARRANTY OF ANY KIND. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. IRON SOFTWARE AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THE SOFTWARE OR ITS DERIVATIVES. IN NO EVENT WILL IRON SOFTWARE OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF THE USE OF OR INABILITY TO USE SOFTWARE, EVEN IF IRON SOFTWARE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Miscellaneous
+This software is not designed or intended for use in on-line control of aircraft, air traffic, aircraft navigation or aircraft communications; or in the design, construction, operation or maintenance of any nuclear facility. Licensee represents and warrants that it will not use or redistribute the Software for such purposes.
+

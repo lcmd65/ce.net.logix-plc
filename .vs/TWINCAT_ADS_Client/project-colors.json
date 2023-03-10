@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a30fc83-b055-4f08-8d18-83c1faa32491": {
+      "ProjectGuid": "1a30fc83-b055-4f08-8d18-83c1faa32491",
+      "DisplayName": "TWINCAT_ADS_Client",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

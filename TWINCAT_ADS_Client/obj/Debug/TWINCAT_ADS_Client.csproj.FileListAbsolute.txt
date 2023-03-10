@@ -1,0 +1,163 @@
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\bin\Debug\TwinCAT.Ads.dll
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\bin\Debug\TwinCAT.Ads.xml
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CopyComplete
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\FS118299\source\repos\TWINCAT_ADS_Client\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Logix.dll
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TwinCAT.Ads.dll
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TwinCAT.Ads.xml
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CopyComplete
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\DELL\Desktop\ME_Project_Toan Ngo\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE_main-20220715T134313Z-001\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Logix.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form2.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form3.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.MainFrom.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\Rockwell_Ingear\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.ResolveComReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Logix.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.ResolveComReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form2.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form3.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.MainFrom.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\IronXL.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\IronXL.xml
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\bin\Debug\IronXL.dll.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CopyComplete
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form4.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form5.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE_Project\INGEAR\CE_main\CE_AUTO_TRACKING\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form6.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Logix.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.xml
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.dll.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.ResolveComReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form2.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form3.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form4.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form5.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form6.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.MainFrom.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CopyComplete
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Logix.dll
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.dll
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.xml
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.dll.config
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form2.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form3.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form4.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form5.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form6.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.MainFrom.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\User\OneDrive\Máy tính\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.ResolveComReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.exe
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\TWINCAT_ADS_Client.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\DeployLX.Licensing.v5.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Interfaces.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\INGEAR.NET.Logix.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.dll
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.xml
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\bin\Debug\IronXL.dll.config
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form1.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form2.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form3.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form4.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form5.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Form6.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.MainFrom.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.Properties.Resources.resources
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\CE SOFTWARE (1)\CE SOFTWARE\CE SOFTWARE\TWINCAT_ADS_Client\obj\Debug\TWINCAT_ADS_Client.csproj.CopyComplete
